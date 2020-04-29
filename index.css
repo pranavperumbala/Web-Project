@@ -1,0 +1,33 @@
+body {
+  text-align: center;
+  background-color: #011F3F;
+}
+
+h1{
+  text-align: center;
+  padding-top: 5%;
+  color: white;
+  font-size: 5rem;
+  font-style: italic;
+  font-family: cursive;
+
+}
+
+h3{
+  text-align: center;
+
+  color: white;
+}
+
+.game{
+
+display: inline-block;
+margin: 5% 5%;
+
+}
+
+.image{
+  height: 250px;
+   width: 250px;
+
+}
